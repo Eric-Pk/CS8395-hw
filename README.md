@@ -1,6 +1,6 @@
 # Kun Peng_CS8395_hw0: Text Summarization App
 
-Kun Peng_CS8395_hw0 is a simple yet powerful app to help you summarize lengthy texts. Built with the power of OpenAI's GPT models and the Langchain toolkit, this application streamlines the process of text summarization to provide concise, clear summaries.
+Kun Peng_CS8395_hw0 is a simple yet powerful app to help you summarize lengthy texts. Built with the power of OpenAI's GPT models and the Langchain toolkit, this application streamlines the process of text summarization to provide concise, clear summaries. It is helpful for Vandy students to quickly get the key point from tons of the texts, which can contribute to the vandy community.
 
 ## Table of Contents
 
